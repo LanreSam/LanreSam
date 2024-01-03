@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LanreSam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=LanreSam&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -12,13 +10,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://img.freepik.com/free-psd/metaverse-poses-backgrounds_23-2150145319.jpg?w=900&t=st=1704282282~exp=1704282882~hmac=b53b547da258ae815e2499c31e8ab08601d33da52b12d8c6e297bf58afa34b13"  />
-</div>
+<img align="right" height="200" src="https://img.freepik.com/free-psd/metaverse-poses-backgrounds_23-2150145319.jpg?w=900&t=st=1704282282~exp=1704282882~hmac=b53b547da258ae815e2499c31e8ab08601d33da52b12d8c6e297bf58afa34b13"  />
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -59,6 +55,6 @@
 
 <br clear="both">
 
-<img src="[snake.yml](https://github.com/LanreSam/LanreSam/blob/85967cb45946d9dee7360ce2e889bfa7bab9e5fb/snake.yml)https://github.com/LanreSam/LanreSam/blob/85967cb45946d9dee7360ce2e889bfa7bab9e5fb/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LanreSam/LanreSam/output/snake.svg" alt="Snake animation" />
 
 ###
