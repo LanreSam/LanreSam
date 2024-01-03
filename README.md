@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="[snake.yml](https://github.com/LanreSam/LanreSam/blob/85967cb45946d9dee7360ce2e889bfa7bab9e5fb/snake.yml)https://github.com/LanreSam/LanreSam/blob/85967cb45946d9dee7360ce2e889bfa7bab9e5fb/snake.yml" alt="Snake animation" />
 
 ###
